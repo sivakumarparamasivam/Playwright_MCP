@@ -1,0 +1,16 @@
+Create Lead
+ 
+ 1.⁠ ⁠Launch the browser.
+ 2.⁠ ⁠Navigate to http://leaftaps.com/opentaps
+ 3.⁠ ⁠Enter the username.
+ 4.⁠ ⁠Enter the password.
+ 5.⁠ ⁠Click Login.
+ 6.⁠ ⁠Click CRM/SFA.
+ 7.⁠ ⁠Click Leads.
+ 8.⁠ ⁠Click Create Lead.
+ 9.⁠ ⁠Enter Company Name.
+10.⁠ ⁠Enter First Name.
+11.⁠ ⁠Enter Last Name.
+12.⁠ ⁠Click Create Lead button.
+13.⁠ ⁠Verify the Lead is created.
+14.⁠ ⁠Close the browser.
