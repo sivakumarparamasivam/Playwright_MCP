@@ -1,8 +1,8 @@
 import { test, expect } from '@playwright/test';
 
 const BASE = 'http://leaftaps.com/opentaps';
-const USER = '';
-const PASS = '';
+const USER = 'democsr2';
+const PASS = 'crmsfa';
 
 test.describe('Leaftaps Login', () => {
   test('Login with democsr2 (happy path)', async ({ page }) => {

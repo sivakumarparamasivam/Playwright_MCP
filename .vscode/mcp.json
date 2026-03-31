@@ -1,6 +1,5 @@
 {
   "servers": {
-
     "playwright-test": {
       "type": "stdio",
       "command": "npx",
@@ -8,15 +7,6 @@
         "playwright",
         "run-test-mcp-server"
       ]
-    },
-    "mcp-atlassian": {
-      "command": "uvx",
-      "args": ["mcp-atlassian"],
-      "env": {
-        "JIRA_URL": "https://sivakumarparamasivamram.atlassian.net",
-        "JIRA_USERNAME": "",
-        "JIRA_API_TOKEN": ""
-      }
     }
   },
   "inputs": []

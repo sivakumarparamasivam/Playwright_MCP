@@ -4,11 +4,11 @@
 - **Objective:** Verify user can log in to http://leaftaps.com/opentaps using provided credentials.
 - **Assumptions:** Browser is launched with a fresh session.
 - **Preconditions:** None.
-- **Test Data:** Username: ``  Password: ``
+- **Test Data:** Username: `democsr2`  Password: `crmsfa`
 - **Steps:**
   1. Navigate to `http://leaftaps.com/opentaps`.
-  2. Enter the username `` into the username field.
-  3. Enter the password `` into the password field.
+  2. Enter the username `democsr2` into the username field.
+  3. Enter the password `crmsfa` into the password field.
   4. Click the Login button.
 - **Expected Result:** The user is logged in and the `CRM/SFA` link is visible.
 - **Success Criteria:** Presence of `CRM/SFA` link or dashboard text indicating successful login.
