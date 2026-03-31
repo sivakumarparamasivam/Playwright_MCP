@@ -1,5 +1,4 @@
 Create Lead
- 
  1.⁠ ⁠Launch the browser.
  2.⁠ ⁠Navigate to http://leaftaps.com/opentaps
  3.⁠ ⁠Enter the username.
